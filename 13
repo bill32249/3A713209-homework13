@@ -31,5 +31,6 @@ int main(int argc, char *argv[]) {
 	      printf("你不可以結婚\n");
 	     }  
 		 }
+	system("PAUSE");
 	return 0;
 }
